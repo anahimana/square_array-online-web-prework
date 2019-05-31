@@ -4,3 +4,4 @@ def square_array(array)
 end
 
 my_array = ["Thing1", "Thing2"]
+square_array(my_array)
