@@ -2,6 +2,7 @@ def square_array(array)
   array.each do |item|
     item ** 2
   end
+  array
 end
 
 my_array = [1, 2]
