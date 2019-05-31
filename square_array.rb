@@ -4,5 +4,5 @@ def square_array(array)
   end
 end
 
-# my_array = [1, 2]
-# puts square_array(my_array)
+my_array = [1, 2]
+puts square_array(my_array)
